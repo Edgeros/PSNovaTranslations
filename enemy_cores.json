@@ -1,11 +1,11 @@
 {
   "110000": {
     "OriginalText": "なし",
-    "Text": ""
+    "Text": "None"
   },
   "110001": {
     "OriginalText": "ダーカー・コア",
-    "Text": ""
+    "Text": "Darker Core"
   },
   "110002": {
     "OriginalText": "原生種・コア",
@@ -21,7 +21,7 @@
   },
   "110005": {
     "OriginalText": "スモール・コア",
-    "Text": ""
+    "Text": "Small Core"
   },
   "110006": {
     "OriginalText": "鳥・コア",
@@ -33,7 +33,7 @@
   },
   "110008": {
     "OriginalText": "リザード・コア",
-    "Text": ""
+    "Text": "Lizard Core"
   },
   "110009": {
     "OriginalText": "大型兵器・コア",
@@ -45,11 +45,11 @@
   },
   "110011": {
     "OriginalText": "ダーカー・コア",
-    "Text": ""
+    "Text": "Darker Core"
   },
   "110012": {
     "OriginalText": "ギガンテス・コア",
-    "Text": "ギガンテス・コア"
+    "Text": "Gigantes Core"
   },
   "110013": {
     "OriginalText": "輝く結晶竜族・コア",
